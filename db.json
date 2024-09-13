@@ -1,0 +1,10 @@
+{
+  "alumni": [
+    { "id": 1, "name": "John Doe", "occupation": "Software Engineer at Google" },
+    { "id": 2, "name": "Jane Smith", "occupation": "Data Scientist at Facebook" }
+  ],
+  "students": [
+    { "id": 1, "name": "Alice Johnson", "year": "Final Year CSE Student" },
+    { "id": 2, "name": "Bob Lee", "year": "Third Year CSE Student" }
+  ]
+}
